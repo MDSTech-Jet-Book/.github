@@ -9,10 +9,10 @@ MDS테크는 NVIDIA Jetson, Enterprise, Automotive Drive 세 가지 플랫폼을
 **Jet-Book**은 Jetson 플랫폼을 사용하는 과정에서 필요한 기술 자료를 한 곳에서 쉽고 빠르게 확인할 수 있도록 정리한 **MDSTech Jetson 기술 문서 모음집**입니다.
 
 ## Repositories
-- [Jetson Setup](https://github.com/MDSTech-Jet-Book/Jetson-setup): OS 설치 및 환경 구축 가이드
-- [Jetson Sample Codes](https://github.com/MDSTech-Jet-Book/Jetson_Sample_Codes): GPIO, I2C, DeepStream 실습 예제
-- [FAQ](https://github.com/MDSTech-Jet-Book/FAQ): 자주 묻는 질문과 답변
-- [Trouble Shooting](https://github.com/MDSTech-Jet-Book/Troubleshooting_Guide): 기술 이슈 및 해결 방법
+- [Jetson Setup](https://github.com/MDSTech-Jet-Book/Jetson-setup): NVIDIA Jetson 입문자를 위한 JetPack 설치, 시스템 제어 및 필수 개발 도구 구축 통합 안내 가이드
+- [Jetson Sample Codes](https://github.com/MDSTech-Jet-Book/Jetson_Sample_Codes): Jetson의 기능을 실무에 바로 적용하고 이해할 수 있도록 정리한 실습 예제 코드 모음
+- [FAQ](https://github.com/MDSTech-Jet-Book/FAQ): Jetson 설사용자들이 자주 묻는 질문과 해결 방법을 정리한 FAQ 모음
+- [Trouble Shooting](https://github.com/MDSTech-Jet-Book/Troubleshooting_Guide): Jetson 플랫폼 활용 및 개발 과정에서 발생하는 다양한 기술 이슈에 대한 원인 분석과 단계별 해결 방법을 제공하는 가이드
 
 ## Contact Us
 
