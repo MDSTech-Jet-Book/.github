@@ -9,10 +9,10 @@ MDS테크는 NVIDIA Jetson, Enterprise, Automotive Drive 세 가지 플랫폼을
 **Jet-Book**은 Jetson 플랫폼을 사용하는 과정에서 필요한 기술 자료를 한 곳에서 쉽고 빠르게 확인할 수 있도록 정리한 **MDSTech Jetson 기술 문서 모음집**입니다.
 
 ## Repositories
-- [Isaac ROS2](https://github.com/MDSTech-Jetson/Isaac_ROS2): Isaac ROS2 설치 방법부터 카메라 실행 가이드까지, Jetson 환경 기반의 다양한 예제와 문서를 제공
-- [Trouble Shooting](https://github.com/MDSTech-Jetson/Troubleshooting_Guide): 
-Jetson 환경에서 발생하는 다양한 기술 문제를 해결하기 위해 이슈와 해결 방법을 정리한 트러블슈팅 가이드 모음
-- [FAQ](https://github.com/MDSTech-Jetson/FAQ): Jetson 초보자를 위한 자주 묻는 질문과 해결 방법 모음
+- [Jetson Setup](https://github.com/MDSTech-Jet-Book/Jetson-setup): OS 설치 및 환경 구축 가이드
+- [Jetson Sample Codes](https://github.com/MDSTech-Jet-Book/Jetson_Sample_Codes): GPIO, I2C, DeepStream 실습 예제
+- [FAQ](https://github.com/MDSTech-Jet-Book/FAQ): 자주 묻는 질문과 답변
+- [Trouble Shooting](https://github.com/MDSTech-Jet-Book/Troubleshooting_Guide): 기술 이슈 및 해결 방법
 
 ## Contact Us
 
