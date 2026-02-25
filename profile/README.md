@@ -17,7 +17,6 @@ MDS테크는 NVIDIA Jetson, Enterprise, Automotive Drive 세 가지 플랫폼을
 ## Contact Us
 
 ### Email
-- 💡 기술지원 문의: ais_tech@mdstech.co.kr  
 - 💡 제품/영업 문의: jetson@mdstech.co.kr  
 
 ### Website
