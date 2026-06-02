@@ -4,9 +4,9 @@
 
 ---
 
-# MDSTech Jet-Book
+<h1 align="center">MDSTech Jet-Book</h1>
 
-**NVIDIA Jetson 국내 공식 총판 · End-to-End AI Platform Provider**
+<p align="center"><b>NVIDIA Jetson 국내 공식 총판 · End-to-End AI Platform Provider</b></p>
 
 MDS테크는 NVIDIA Jetson, Enterprise, Automotive Drive 세 가지 플랫폼을 담당하는 국내 공식 총판사입니다.
 **Jet-Book**은 Jetson 플랫폼을 사용하는 과정에서 필요한 기술 자료를 한 곳에서 쉽고 빠르게 확인할 수 있도록 정리한 **MDSTech Jetson 기술 문서 모음집**입니다.
